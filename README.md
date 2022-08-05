@@ -1,8 +1,16 @@
-# Getting Started with Create React App
+# React Weather App
+In this project I used Web API (https://openweathermap.org/) and I maked live sreaching input. 
+### Screens
+![2](https://user-images.githubusercontent.com/80851501/183052011-171b072d-69a3-4e1b-85c1-8d04e19a792a.png)
+![3](https://user-images.githubusercontent.com/80851501/183052048-760650a8-eab0-48a0-97a4-b9009071c649.png)
+![1](https://user-images.githubusercontent.com/80851501/183052107-b6e9d99c-cf80-4ebe-8a5f-871bd5908065.png)
 
+
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+
 
 In the project directory, you can run:
 
