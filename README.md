@@ -1,5 +1,5 @@
 # React Weather App
-In this project I used Web API (https://openweathermap.org/) and I maked live sreaching input. 
+In this project I used Web API (https://openweathermap.org/) and I maked live searching input. 
 ### Screens
 ![2](https://user-images.githubusercontent.com/80851501/183052011-171b072d-69a3-4e1b-85c1-8d04e19a792a.png)
 ![3](https://user-images.githubusercontent.com/80851501/183052048-760650a8-eab0-48a0-97a4-b9009071c649.png)
